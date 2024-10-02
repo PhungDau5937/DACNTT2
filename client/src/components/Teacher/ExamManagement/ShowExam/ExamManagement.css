@@ -1,0 +1,90 @@
+.free{
+    color: #0031DE;
+    font-weight: 700;
+    font-size: 15px;
+    background: #C9DBFF;
+    padding: 2px 6px;
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+
+.vip {
+    background: #00057D;
+    padding: 2px 5px;
+    color: #FFE200;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-right: 3px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.text-ellipsisTitle {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+}
+
+.text-ellipsis {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+}
+
+.star-rating {
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.itemsMenu{
+    line-height: 30px;
+    list-style-type: none;
+    height: 100%;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.underlinez{
+    border-bottom: 4px solid #404080;
+}
+
+
+.dropdownFilter::before{
+    content: '';
+    position: absolute;
+    top: -0.7rem;
+    right: 0.8rem;
+    width: 20px;
+    height: 20px;
+    transform: rotate(45deg);
+    background-color: white;
+    border-left: 2px solid gray;
+    border-top: 2px solid gray;
+}
+
+.itemsFilter{
+    cursor: pointer;
+    border-top-right-radius: 0.5rem; /* Bo tròn góc phải trên */
+    border-bottom-right-radius: 0.5rem; 
+    border-left-color: transparent;
+    padding-left: 0.25rem; /* Thêm padding bên trái */
+    padding-right: 0.25rem;
+    border-left-color: #cbd5e0;
+    font-weight: bold;
+}
+
+.itemsFilter:hover{
+    background-color: #edf2f7;
+}
+.itemsFilter:focus{
+    background-color: green;
+}

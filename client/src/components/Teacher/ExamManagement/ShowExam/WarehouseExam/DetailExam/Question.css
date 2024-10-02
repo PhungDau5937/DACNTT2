@@ -1,0 +1,16 @@
+/* src/components/Question.css */
+.question {
+  margin-bottom: 20px;
+}
+
+.correct {
+  background-color: #d4edda;
+}
+
+.incorrect {
+  background-color: #f8d7da;
+}
+
+input:disabled {
+  cursor: not-allowed;
+}

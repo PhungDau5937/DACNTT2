@@ -1,0 +1,123 @@
+.preview-div {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(196, 194, 194);
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    animation-fill-mode: forwards;
+    z-index: 50;
+  }
+  
+  .preview-div.move {
+    animation: slideIn 1s ease-in-out;
+  }
+  
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  
+  .preview-div:not(.move) {
+    animation: slideOut 0.75s ease-in-out;
+  }
+  
+  @keyframes slideOut {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(100%);
+    }
+  }
+  
+  .button-close {
+    position: absolute;
+    top: 10;
+    left: 25px;
+  }
+  
+  
+  .containerPreviewExam {
+    width: 60%;
+    overflow: auto;
+    height: 100%;
+    margin: auto;
+    background: #fff;
+    padding: 15px 74px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .containerPreviewExam h1 {
+    text-align: center;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+  
+  .containerPreviewExam h2 {
+    color: #333;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+  }
+  
+  .containerPreviewExam ol {
+    margin: 0 0;
+  }
+  
+  .containerPreviewExam li {
+    margin-bottom: 3px;
+    display: flex;
+  }
+  
+  .containerPreviewExam li div {
+    margin-right: 10px;
+  }
+  
+  .containerPreviewExam li p {
+    margin-right: 60px;
+  }
+  
+  .containerPreviewExam ol ol li {
+    list-style-type: upper-alpha;
+    margin-right: 80px;
+  }
+  
+  .questionChapter-3 {
+    display: flex;
+  }
+  
+  .answerChapter-3 {
+    display: flex;
+  }
+  
+  /* Thiáº¿t láº­p kÃ­ch thÆ°á»›c vÃ  mÃ u sáº¯c cho thanh cuá»™n */
+  .containerPreviewExam::-webkit-scrollbar {
+    width: 0px; /* Äá»™ rá»™ng cá»§a thanh cuá»™n */
+  }
+  
+  .containerPreviewExam::-webkit-scrollbar-track {
+    background: #f1f1f1; /* MÃ u ná»n cá»§a thanh cuá»™n */
+  }
+  
+  .containerPreviewExam::-webkit-scrollbar-thumb {
+    background: #888; /* MÃ u cá»§a thanh cuá»™n */
+    border-radius: 4px; /* Äá»™ cong cá»§a mÃ©p thanh cuá»™n */
+  }
+  
+  .containerPreviewExam::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Äá»•i mÃ u thanh cuá»™n khi di chuá»™t vÃ o */
+  }
+  
+  

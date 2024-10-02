@@ -1,0 +1,738 @@
+[
+  {
+    "questionID": 1,
+    "type": "nghe",
+    "titleQuestion": "What does the guest do?",
+    "options": ["counselor", "principal", "school manager", "school"],
+    "answer": "principal",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "nghe",
+    "titleQuestion": "How many years has the school won the best award?",
+    "options": ["One year", "Five years", "Seven years", "Ten years"],
+    "answer": "Five years",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 3,
+    "type": "nghe",
+    "titleQuestion": "What is the most important factor in the school’s success?",
+    "options": [
+      "Teachers’ effort",
+      "Good facilities",
+      "Curriculum and extra activities",
+      "Good"
+    ],
+    "answer": "Curriculum and extra activities",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 4,
+    "type": "nghe",
+    "titleQuestion": "The guest believes that _____________.",
+    "options": [
+      "learning art and music is a waste of time",
+      "students just need to study compulsory subjects",
+      "extra activities are good for the development of students",
+      "is a waste of time"
+    ],
+    "answer": "learning art and music is a waste of time",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "nghe",
+    "titleQuestion": "Why do the students in the school learn to play musical instruments?",
+    "options": [
+      "To become professional musicians",
+      "To sharpen their brain function",
+      "To complete the programme",
+      "To become professional"
+    ],
+    "answer": "To sharpen their brain function",
+    "level": "Khó"
+  },
+  {
+    "questionID": 1,
+    "type": "shortAnswer",
+    "titleQuestion": "There is no one taller than my father in my family.",
+    "option": "",
+    "answer": "My father is the tallest (member) in my family.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "shortAnswer",
+    "titleQuestion": "Other oceans in the world aren't as large as the Pacific Ocean.",
+    "option": "",
+    "answer": "Pacific Ocean is the largest (ocean) in the world.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "shortAnswer",
+    "titleQuestion": "The white car is cheaper than the black car.",
+    "option": "",
+    "answer": "The black car is more expensive than the white car.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "shortAnswer",
+    "titleQuestion": "The patient was too weak to get up.",
+    "option": "",
+    "answer": "The patient wasn’t strong enough to get up.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "shortAnswer",
+    "titleQuestion": "Was the test not easy enough for you to do?",
+    "option": "",
+    "answer": "Was the test too difficult for you to do?",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "đục lỗ",
+    "titleQuestion": "Environmental pollution is a term that ________ to all the ways by which man pollutes his surroundings. Man dirties the air with gases and smoke, poisons the water with chemicals and other substances, and damages the soil with ________ many fertilizers and pesticides. Man also pollutes his surroundings in various other ways. ________, people ruin natural beauty by disposing garbage and waste products on the land and in the water. They operate machines and motor vehicles that fill the air with ________ noise. Badly polluted air can cause illness, and even death. Polluted water kills fish and other coastal life. Pollution of soil reduces the amount of land that is ________ for growing food.",
+    "options": [],
+    "answer": "",
+    "optionsDoc": [
+      ["refers", "attend", "directs", "aims"],
+      ["extreme", "too", "such", "all"],
+      ["Besides", "As instance", "Therefore", "For example"],
+      ["embarrassing", "disturbing", "Therefore", "dismissing"],
+      ["able", "capable", "probable", "available"]
+    ],
+    "answerDoc": ["refers", "too", "Therefore", "disturbing", "available"],
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "điền khuyết",
+    "titleQuestion": "How ____________ money do you need to buy a new car?",
+    "options": ["much", "many", "some", "a lot of"],
+    "answer": "many",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "điền khuyết",
+    "titleQuestion": "There aren’t ____________ apples left in the basket.",
+    "options": ["much", "any", "some", "an"],
+    "answer": "much",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "điền khuyết",
+    "titleQuestion": "There are ____________ students in the classroom today.",
+    "options": ["a lot of", "lots", "a lots of", "much"],
+    "answer": "lots",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "điền khuyết",
+    "titleQuestion": "He had ____________ friends in California.",
+    "options": ["a little", "any", "a few", "lots"],
+    "answer": "a little",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 5,
+    "type": "điền khuyết",
+    "titleQuestion": "I think I'll have _____ milk before I go to bed.",
+    "options": ["a little", "a few", "a", "many"],
+    "answer": "many",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 1,
+    "type": "trọng âm",
+    "titleQuestion": "Which word has a different stressed syllable?",
+    "options": [
+      "<u>be</u>gin",
+      "a<u>rr</u>ive",
+      "<u>th</u>ird",
+      "<u>gr</u>ass"
+    ],
+    "answer": "arrive",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "trọng âm",
+    "titleQuestion": "Which word has a different stressed syllable?",
+    "options": ["<u>li</u>ke", "<u>mo</u>vie", "<u>ba</u>by", "<u>tri</u>al"],
+    "answer": "like",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "trọng âm",
+    "titleQuestion": "Which word has a different stressed syllable?",
+    "options": ["<u>ba</u>ll", "<u>pa</u>rk", "<u>ar</u>tist", "<u>bo</u>ard"],
+    "answer": "artist",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "trọng âm",
+    "titleQuestion": "Which word has a different stressed syllable?",
+    "options": ["<u>sto</u>ry", "<u>te</u>ll", "<u>po</u>int", "<u>li</u>ne"],
+    "answer": "tell",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "trọng âm",
+    "titleQuestion": "Which word has a different stressed syllable?",
+    "options": [
+      "<u>un</u>derstand",
+      "<u>ar</u>ound",
+      "<u>be</u>gin",
+      "<u>an</u>swer"
+    ],
+    "answer": "answer",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "nghe",
+    "titleQuestion": "Where did they go last weekend?",
+    "options": ["The beach", "The mountains", "The city", "The park"],
+    "answer": "The mountains",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "nghe",
+    "titleQuestion": "What did John forget to bring?",
+    "options": ["His camera", "His hat", "His sunscreen", "His book"],
+    "answer": "His hat",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "nghe",
+    "titleQuestion": "How did they get there?",
+    "options": ["By car", "By bus", "By train", "By bike"],
+    "answer": "By bus",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "nghe",
+    "titleQuestion": "What was the weather like?",
+    "options": ["Sunny", "Rainy", "Cloudy", "Windy"],
+    "answer": "Rainy",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "nghe",
+    "titleQuestion": "What did they do?",
+    "options": ["Swimming", "Hiking", "Shopping", "Picnicking"],
+    "answer": "Hiking",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "shortAnswer",
+    "titleQuestion": "She is the fastest runner in the team.",
+    "option": "",
+    "answer": "No one in the team runs faster than she does.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "shortAnswer",
+    "titleQuestion": "The book is very interesting.",
+    "option": "",
+    "answer": "I find the book very interesting.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "shortAnswer",
+    "titleQuestion": "They built the house in 1990.",
+    "option": "",
+    "answer": "The house was built in 1990.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "shortAnswer",
+    "titleQuestion": "I have never seen such a beautiful painting.",
+    "option": "",
+    "answer": "This is the most beautiful painting I have ever seen.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "shortAnswer",
+    "titleQuestion": "The weather is too cold for us to go out.",
+    "option": "",
+    "answer": "The weather isn't warm enough for us to go out.",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "đục lỗ",
+    "titleQuestion": "Global warming is a serious issue that (1) ________ the entire planet. It (2) ________ by the increased levels of greenhouse gases (3) ________ are produced by human activities such as burning fossil fuels and deforestation. As a result, the Earth's temperature (4) ________, leading to melting ice caps, rising sea levels, and extreme weather events. It is important that we (5) ________ action to reduce our carbon footprint and protect the environment.",
+    "options": [],
+    "answer": "",
+    "optionsDoc": [
+      ["affects", "effects", "affecting", "effecting"],
+      ["is caused", "caused", "is causing", "cause"],
+      ["which", "that", "who", "whose"],
+      ["is rising", "rise", "rises", "rose"],
+      ["take", "taking", "taken", "took"]
+    ],
+    "answerDoc": ["affects", "is caused", "that", "is rising", "take"],
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "điền khuyết",
+    "titleQuestion": "She often ___________ home late at night.",
+    "options": ["come", "comes", "came", "coming"],
+    "answer": "came",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "điền khuyết",
+    "titleQuestion": "They haven't met _______ five years.",
+    "options": ["since", "for", "in", "during"],
+    "answer": "in",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "điền khuyết",
+    "titleQuestion": "He ___________ to New York last summer.",
+    "options": ["goes", "went", "gone", "going"],
+    "answer": "gone",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 4,
+    "type": "điền khuyết",
+    "titleQuestion": "We have lived in this town __________ 2000.",
+    "options": ["since", "for", "in", "during"],
+    "answer": "for",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 5,
+    "type": "điền khuyết",
+    "titleQuestion": "She ___________ a beautiful dress yesterday.",
+    "options": ["buy", "buys", "bought", "buying"],
+    "answer": "buying",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 1,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>re</u>ad", "<u>ea</u>t", "s<u>ea</u>t", "gr<u>ea</u>t"],
+    "answer": "read",
+    "level": "Khó"
+  },
+  {
+    "questionID": 2,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>bi</u>ke", "<u>pi</u>pe", "<u>li</u>ke", "<u>fi</u>eld"],
+    "answer": "bike",
+    "level": "Khó"
+  },
+  {
+    "questionID": 3,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["c<u>a</u>r", "st<u>a</u>r", "w<u>a</u>ter", "h<u>a</u>nd"],
+    "answer": "hand",
+    "level": "Khó"
+  },
+  {
+    "questionID": 4,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>bo</u>ok", "t<u>oo</u>k", "l<u>oo</u>k", "<u>do</u>"],
+    "answer": "book",
+    "level": "Khó"
+  },
+  {
+    "questionID": 5,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["b<u>u</u>t", "p<u>u</u>t", "<u>f</u>ood", "c<u>u</u>t"],
+    "answer": "cut",
+    "level": "Khó"
+  },
+  {
+    "questionID": 1,
+    "type": "nghe",
+    "titleQuestion": "What does the guest do?",
+    "options": ["counselor", "principal", "school manager", "school"],
+    "answer": "principal",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "nghe",
+    "titleQuestion": "How many years has the school won the best award?",
+    "options": ["One year", "Five years", "Seven years", "Ten years"],
+    "answer": "Five years",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "nghe",
+    "titleQuestion": "What is the most important factor in the school’s success?",
+    "options": [
+      "Teachers’ effort",
+      "Good facilities",
+      "Curriculum and extra activities",
+      "Good"
+    ],
+    "answer": "Curriculum and extra activities",
+    "level": "Khó"
+  },
+  {
+    "questionID": 4,
+    "type": "nghe",
+    "titleQuestion": "The guest believes that _____________.",
+    "options": [
+      "learning art and music is a waste of time",
+      "students just need to study compulsory subjects",
+      "extra activities are good for the development of students",
+      "is a waste of time"
+    ],
+    "answer": "learning art and music is a waste of time",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 5,
+    "type": "nghe",
+    "titleQuestion": "Why do the students in the school learn to play musical instruments?",
+    "options": [
+      "To become professional musicians",
+      "To sharpen their brain function",
+      "To complete the programme",
+      "To become professional"
+    ],
+    "answer": "To sharpen their brain function",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 6,
+    "type": "nghe",
+    "titleQuestion": "What subject does the guest teach?",
+    "options": ["Mathematics", "Science", "History", "Literature"],
+    "answer": "Science",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 7,
+    "type": "nghe",
+    "titleQuestion": "How many extracurricular clubs does the school offer?",
+    "options": ["Five", "Ten", "Fifteen", "Twenty"],
+    "answer": "Fifteen",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 8,
+    "type": "nghe",
+    "titleQuestion": "What technological tool is widely used in the school for learning?",
+    "options": [
+      "Laptops",
+      "Tablets",
+      "Interactive whiteboards",
+      "Virtual reality headsets"
+    ],
+    "answer": "Interactive whiteboards",
+    "level": "Khó"
+  },
+  {
+    "questionID": 9,
+    "type": "nghe",
+    "titleQuestion": "The guest thinks that _____________.",
+    "options": [
+      "homework should be abolished",
+      "standardized tests are necessary",
+      "field trips enhance learning experiences",
+      "students should have longer school hours"
+    ],
+    "answer": "field trips enhance learning experiences",
+    "level": "Khó"
+  },
+  {
+    "questionID": 10,
+    "type": "nghe",
+    "titleQuestion": "Why do students participate in community service?",
+    "options": [
+      "To earn extra credit",
+      "To gain work experience",
+      "To fulfill graduation requirements",
+      "To develop a sense of responsibility"
+    ],
+    "answer": "To develop a sense of responsibility",
+    "level": "Khó"
+  },
+  {
+    "questionID": 1,
+    "type": "shortAnswer",
+    "titleQuestion": "There is no one taller than my father in my family.",
+    "option": "",
+    "answer": "My father is the tallest (member) in my family.",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 2,
+    "type": "shortAnswer",
+    "titleQuestion": "Other oceans in the world aren't as large as the Pacific Ocean.",
+    "option": "",
+    "answer": "Pacific Ocean is the largest (ocean) in the world.",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 3,
+    "type": "shortAnswer",
+    "titleQuestion": "The white car is cheaper than the black car.",
+    "option": "",
+    "answer": "The black car is more expensive than the white car.",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 4,
+    "type": "shortAnswer",
+    "titleQuestion": "The patient was too weak to get up.",
+    "option": "",
+    "answer": "The patient wasn’t strong enough to get up.",
+    "level": "Khó"
+  },
+  {
+    "questionID": 5,
+    "type": "shortAnswer",
+    "titleQuestion": "Was the test not easy enough for you to do?",
+    "option": "",
+    "answer": "Was the test too difficult for you to do?",
+    "level": "Khó"
+  },
+  {
+    "questionID": 1,
+    "type": "đục lỗ",
+    "titleQuestion": "Environmental pollution is a term that (1) ________ to all the ways by which man pollutes his surroundings. Man dirties the air with gases and smoke, poisons the water with chemicals and other substances, and damages the soil with (2) ________ many fertilizers and pesticides. Man also pollutes his surroundings in various other ways. (3) ________, people ruin natural beauty by disposing garbage and waste products on the land and in the water. They operate machines and motor vehicles that fill the air with (4) ________ noise. Badly polluted air can cause illness, and even death. Polluted water kills fish and other coastal life. Pollution of soil reduces the amount of land that is (5) ________ for growing food.",
+    "optionsDoc": [
+      ["refers", "attend", "directs", "aims"],
+      ["extreme", "too", "such", "all"],
+      ["Besides", "As instance", "Therefore", "For example"],
+      ["embarrassing", "disturbing", "Therefore", "dismissing"],
+      ["able", "capable", "probable", "available"]
+    ],
+    "answerDoc": ["refers", "such", "For example", "disturbing", "available"],
+    "level": "Khó"
+  },
+  {
+    "questionID": 1,
+    "type": "điền khuyết",
+    "titleQuestion": "How____________ money do you have left?",
+    "options": ["many", "much", "a lot", "lots of"],
+    "answer": "much",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "điền khuyết",
+    "titleQuestion": "There aren’t __________ oranges on the table.",
+    "options": ["much", "any", "some", "an"],
+    "answer": "any",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 3,
+    "type": "điền khuyết",
+    "titleQuestion": "There are ___________ people who would like to come to Ed Sheeran’s concert.",
+    "options": ["a lot of", "lots", "a lots of", "much"],
+    "answer": "a lot of",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 0,
+    "type": "điền khuyết",
+    "titleQuestion": "He had _____________ friends in California.",
+    "options": ["a little", "any", "a few", "lots"],
+    "answer": "a few",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 5,
+    "type": "điền khuyết",
+    "titleQuestion": "I think I'll have _____ milk before I go to bed.",
+    "options": ["a little", "a few", "a", "many"],
+    "answer": "a little",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 6,
+    "type": "điền khuyết",
+    "titleQuestion": "Malaysia is ______________ than Canada.",
+    "options": ["much hotter", "further hotter", "more hotter", "much hot"],
+    "answer": "much hotter",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 7,
+    "type": "điền khuyết",
+    "titleQuestion": "My Tho is ____ from Ho Chi Minh City than Bien Hoa is.",
+    "options": ["farer", "more far", "farther", "much far"],
+    "answer": "farer",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 8,
+    "type": "điền khuyết",
+    "titleQuestion": "Shakira is a _____ singer______ Milo.",
+    "options": ["better- to", "gooder- than", "much- good", "better- than"],
+    "answer": "better- than",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 9,
+    "type": "điền khuyết",
+    "titleQuestion": "I will be there ______ I can.",
+    "options": ["sooner as", "as soon as", "soonest as", "soonest as"],
+    "answer": "as soon as",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 10,
+    "type": "điền khuyết",
+    "titleQuestion": "The _________, the_________.",
+    "options": [
+      "soon- best",
+      "sooner- good",
+      "sooner- better",
+      "soonest- better"
+    ],
+    "answer": "sooner- better",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 1,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>co</u>me", "mon<u>th</u>", "mo<u>th</u>er", "o<u>pe</u>n"],
+    "answer": "come",
+    "level": "Dễ"
+  },
+  {
+    "questionID": 2,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>ho</u>pe", "ho<u>me</u>work", "o<u>ne</u>", "po<u>st</u>"],
+    "answer": "hope",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 3,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>bro</u>ther", "ju<u>do</u>", "go<u>in</u>g", "ro<u>de</u>"],
+    "answer": "brother",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 4,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>ci</u>ties",
+      "wa<u>tch</u>es",
+      "di<u>sh</u>es",
+      "ho<u>us</u>es"
+    ],
+    "answer": "cities",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 5,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>gran</u>dparents",
+      "bro<u>th</u>ers",
+      "un<u>cl</u>es",
+      "fa<u>th</u>ers"
+    ],
+    "answer": "grandparents",
+    "level": "Trung bình"
+  },
+  {
+    "questionID": 6,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>bo</u>oks",
+      "wa<u>ll</u>s",
+      "ro<u>om</u>s",
+      "pi<u>ll</u>ows"
+    ],
+    "answer": "books",
+    "level": "Khó"
+  },
+  {
+    "questionID": 7,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": ["<u>fi</u>nger", "le<u>g</u>", "ne<u>ck</u>", "el<u>bo</u>w"],
+    "answer": "finger",
+    "level": "Khó"
+  },
+  {
+    "questionID": 8,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>wr</u>ites",
+      "ma<u>ke</u>s",
+      "ta<u>ke</u>s",
+      "dri<u>ve</u>s"
+    ],
+    "answer": "writes",
+    "level": "Khó"
+  },
+  {
+    "questionID": 9,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>req</u>uest",
+      "pr<u>oj</u>ect",
+      "ne<u>ck</u>",
+      "ex<u>ci</u>ting"
+    ],
+    "answer": "request",
+    "level": "Khó"
+  },
+  {
+    "questionID": 10,
+    "type": "trọng âm",
+    "titleQuestion": "",
+    "options": [
+      "<u>Th</u>ursday",
+      "<u>Th</u>anks",
+      "<u>Th</u>ese",
+      "bir<u>th</u>day"
+    ],
+    "answer": "Thursday",
+    "level": "Khó"
+  }
+]
